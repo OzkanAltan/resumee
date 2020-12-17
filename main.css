@@ -56,9 +56,14 @@ div {
   height: 1000px;
 }
 
-p,
+p {
+  font-family: 'Cormorant Garamond';
+}
+
 li {
   font-family: 'Cormorant Garamond';
+   margin-top: 2px;
+   margin-bottom: 2px;
 }
 
 .head {
