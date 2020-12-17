@@ -15,7 +15,7 @@ div {
 #header {
   height: 40px;
   width: 100%;
-  background-color: #0000FF;
+  background-color: #33E3FF;
   position: fixed;
   z-index: 1;
 }
@@ -27,7 +27,7 @@ div {
 #footer {
   height: 50px;
   width: 100%;
-  background-color: #0000FF;
+  background-color: #33E3FF;
   clear: both;
   position: relative;
 }
